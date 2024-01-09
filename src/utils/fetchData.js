@@ -1,5 +1,6 @@
 export const exerciseOptions={
     method: 'GET',
+    params: {limit: 100},
     headers: {
         'X-RapidAPI-Key': import.meta.env.VITE_ACCESS_KEY,
         'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com'

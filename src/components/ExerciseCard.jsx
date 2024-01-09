@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import {Button,Stack,Typography} from "@mui/material"
-import { exerciseOptions } from '../utils/fetchData'
 
 function ExerciseCard({exercise}) {
     const img = exercise.gifUrl
