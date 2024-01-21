@@ -5,4 +5,8 @@ export {default as Exercises} from "./Exercises"
 export {default as ExerciseCard} from "./ExerciseCard"
 export {default as HorizontalScrollbar} from "./HorizontalScrollbar"
 export {default as BodyPart} from "./BodyPart"
+
+export {default as Detail} from "./Detail"
+
+
 export {default as Footer} from "./Footer"
