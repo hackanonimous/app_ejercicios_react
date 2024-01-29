@@ -1,8 +1,5 @@
-# React + Vite
+# App de Ejercicios
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+la siguiente aplicacion esta desarrollada con react y zustand.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+el objetivo de la app es hacer uso de la api ExercicesDb que tiene una base de datos y detalles de ejercicios y poder buscarlos a travez de un buscador o a travez de tarjetas de partes de cuerpo.
